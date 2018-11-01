@@ -5,7 +5,7 @@ Thanks for [EasyOpenVROverlayForUnity](https://sabowl.sakura.ne.jp/gpsnmeajp/uni
 # Drums VR
 Determine bass drum position  
 ![](https://github.com/rn9dfj3/drums_vr/blob/master/figure1.png)  
-Determine hi hat cymbal position  
+Determine hi-hat cymbal position  
 ![](https://github.com/rn9dfj3/drums_vr/blob/master/figure2.png)  
 Determine snare drum position  
 ![](https://github.com/rn9dfj3/drums_vr/blob/master/figure3.png)  
