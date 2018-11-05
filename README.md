@@ -1,6 +1,6 @@
 # Drums VR
 VRドラムセットです。他のVRソフトウェアで遊んでいる状態で使えます  
-Drums in VR on playing other vr software. [This is Download](https://github.com/rn9dfj3/drums_vr/releases)!!!  
+Drums in VR on playing other vr software. This is [Download](https://github.com/rn9dfj3/drums_vr/releases)!!!  
 Thanks for [EasyOpenVROverlayForUnity](https://sabowl.sakura.ne.jp/gpsnmeajp/unity/EasyOpenVROverlayForUnity/)!!!
 # Drums VR
 Determine bass drum position  
